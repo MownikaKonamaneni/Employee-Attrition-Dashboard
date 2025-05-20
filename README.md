@@ -5,7 +5,7 @@
 Learn more about me in my [GitHub profile page](https://github.com/MownikaKonamaneni). 
 
 
-The following is a sample of products created during the _"Data Wrangling"_ course.
+The following is a project created during the _"Data Wrangling"_ course.
 
 
 ## 📌 Project Overview

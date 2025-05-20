@@ -72,6 +72,8 @@ All dashboards were designed using Tableau, focused on different aspects of empl
 * KPIs: Total Employees, Current Employees, Attrition Rate and Total Attrition
 * Charts: Attrition by gender, department, business travel, job role, age group, education, and commute Distance
 
+![ ](https://github.com/MownikaKonamaneni/Employee-Attrition-Dashboard/blob/main/Images/Dashboard1.png)
+
 ### 🧩 Dashboard 2: **Detailed Attrition Analysis**
 
 * Deep dive into job satisfaction, marital status, overtime effect, tenure, and job role
@@ -130,22 +132,38 @@ All dashboards were designed using Tableau, focused on different aspects of empl
 
 ---
 
+## 📊 Visualizations
+All dashboards were created using Tableau and include:
+
+* Lollipop and donut charts
+* Bar charts with color coding
+* Dual-axis and square charts for comparison
+* Interactive filters for dynamic exploration
+
 ## 📂 Repository Structure
 
 ```bash
 📁 Employee-Attrition-Dashboard
 │
 ├── 📊 Tableau Dashboards/
-│   └── employee_attrition_dashboard.twbx
+│   └── employeeAttritionDashboard.twbx
 │
 ├── 📁 Data/
 │   └── ibm_employee_attrition.csv
 │
-├── 📁 Reports/
-│   └── final_project_report.pdf
+├── 📁 Project Review/
+│   └── project_progress01.docx
 │
-├── README.md
-└── LICENSE
+├── 📁 Project Reports/
+│   └── final_project_report.docx
+│
+├── 📁 Images
+|    ├── Dashboard1.png
+|    ├── Dashboard2.png
+|    ├── Dashboard3.png
+|    └── Dashboard4.png
+|
+└── README.md
 ```
 
 ---
@@ -164,10 +182,3 @@ Feel free to fork this repository, use the dashboards, and contribute improvemen
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-Would you like me to generate a version with embedded images/screenshots from the Tableau dashboards if you can provide them?

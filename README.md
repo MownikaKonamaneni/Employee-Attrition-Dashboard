@@ -79,13 +79,19 @@ All dashboards were designed using Tableau, focused on different aspects of empl
 * Deep dive into job satisfaction, marital status, overtime effect, tenure, and job role
 * Highlights key demographic groups with higher attrition risk
 
+![ ](https://github.com/MownikaKonamaneni/Employee-Attrition-Dashboard/blob/main/Images/Dashboard2.png)
+
 ### 👥 Dashboard 3: **Employee Distribution Analysis**
 
 * Visualizes workforce composition by gender, age, education, department, and marital status
 
+![ ](https://github.com/MownikaKonamaneni/Employee-Attrition-Dashboard/blob/main/Images/Dashboard3.png)
+
 ### 💸 Dashboard 4: **Average Monthly Salary Distribution**
 
 * Compares salaries across gender, age group, education, job role, and department
+
+![ ](https://github.com/MownikaKonamaneni/Employee-Attrition-Dashboard/blob/main/Images/Dashboard4.png)
 
 ---
 
